@@ -1,5 +1,5 @@
-docs/*Copy/
-!docs/*_final.docx
+SDD_v*.docx
+SRS_v*.docx
 *.log
 /**/User_Manual
 /**/README.md
