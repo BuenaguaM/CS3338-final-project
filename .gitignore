@@ -1,5 +1,8 @@
 docs/*Copy/
 !docs/*_final.docx
+*.log
+/**/User_Manual
+/**/README.md
 *-*.txt
 styles.css
 
