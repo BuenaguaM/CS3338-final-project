@@ -1,5 +1,5 @@
 *.log
-/**/User_Manual2
+/**/User_Manual
 /**/README.md
 {Software_Design_Document, Software_Requirement_Specification}/*
 !{Software_Design_Document, Software_Requirement_Specification}/*_final.docx
