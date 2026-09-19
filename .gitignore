@@ -1,8 +1,7 @@
-SDD_v*.docx
-SRS_v*.docx
-*.log
+/**/*.log
 /**/User_Manual
-/**/README.md
 *-*.txt
 styles.css
-
+SDD_v*.docx
+SRS_v*.docx
+/**/README.md
